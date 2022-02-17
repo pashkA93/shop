@@ -1,0 +1,9 @@
+.highlight-yellow {
+  color: #f8b803;
+}
+
+.highlight-green {
+  color: rgb(102, 153, 4);
+  font-weight: bold;
+  font-size: inherit;
+}
